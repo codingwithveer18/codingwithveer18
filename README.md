@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud computing<br>🤝 I’m looking for help with Cloud and CyberSecurity.<br>🌱 I’m currently learning Fullstack development and cloud technologies.<br>⚡ Fun fact I'm an Engineer.
+🔭 I’m currently working on FullStack Development<br>🤝 I’m looking for help with Machine Learning , Cloud Computing.<br>🌱 I’m currently learning MERN Stack.<br>⚡ Fun fact I'm an Engineer.
 
 
 # 💻 Tech Stack:
